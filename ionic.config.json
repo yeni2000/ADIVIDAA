@@ -1,0 +1,7 @@
+{
+  "name": "adividaa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
